@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*int func_soma_elementos_matriz(int **pmatrix, int n){
+/* Codigo alternativo:
+int func_soma_elementos_matriz(int **pmatrix, int n){
     int resultado = 0;
     for (int i = 0; i < n; i++){
         for (int j = 0; j < n; j++)
