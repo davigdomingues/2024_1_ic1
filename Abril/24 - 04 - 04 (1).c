@@ -1,4 +1,4 @@
-/*int main() (Soma dos numeros de PA razão 1, com An = n)
+int main() //(Soma dos numeros de PA razão 1, com An = n)
 {
     int i,n,soma;
     printf("Digite um número: ");
@@ -9,4 +9,3 @@
     printf("A soma dele com seus antecessores em cadeia eh: %d", soma);
     return 0;
 }
-*/
