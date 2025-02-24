@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// ideia original de Lucas Cabral Kauvano:
+
 void ordenacao(char S[], int n){ //passagem de vetor string para uma função qualquer: str[].
     int j;
     
