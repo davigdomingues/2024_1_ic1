@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){ // Método de Newton para aproximação de raízes quadradas, solução do Chrstyan.
+int main(){ // Método de Newton para aproximação de raízes quadradas, solução de Chrstyan Paniago Nantes.
 
 int a, i;
 
