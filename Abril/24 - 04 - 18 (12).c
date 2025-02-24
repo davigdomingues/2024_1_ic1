@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){ // soma dos dois primeiros algarismos de um número entre 1000 e 9999, que ao quadrado equivale ao número em si, solução do Lucas Cabral.
+int main(){ // soma dos dois primeiros algarismos de um número entre 1000 e 9999, que ao quadrado equivale ao número em si, solução do Lucas Cabral Kauvano.
 
 for (int i = 1000; i < 10000; i++){
 	int a, b;
