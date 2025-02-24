@@ -1,5 +1,3 @@
-Obs: a nota da prova tem como critério, também, a qualidade do programa, de tal forma que deve ser considerado um bom projeto, ou seja, sintético, correto e direto.
-
 #include <stdio.h>
 #include <math.h>
 
@@ -58,6 +56,7 @@ return 0;
 
 }
 */
+
 //outra versão (valores perfeitos até um limite indeterminado dado pelo usuário):
 
 int valor_perfeito(int pvalor){
