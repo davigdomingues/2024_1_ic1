@@ -1,11 +1,3 @@
-/******************************************************************************
-
-Welcome to GDB Online.
-  GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, 
-  C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, COBOL, HTML, CSS, JS
-  Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
 #include <stdio.h>
 
 int func(int *p1, int *p2){
@@ -28,26 +20,21 @@ int main()
 }
 
 
-/******************************************************************************
-
-Welcome to GDB Online.
-  GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, 
-  C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, COBOL, HTML, CSS, JS
-  Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
+/*
 #include <stdio.h>
 
 int main()
 {
-    int v[] = {5, 10, 15, 3, 10, 76, 5, 13, 33, 45};
+int v[] = {5, 10, 15, 3, 10, 76, 5, 13, 33, 45};
 int * pt;
 int i;
  
 pt = v;
  
 for(i = 0; i < 10; i++)
-{
    printf("V[%i] = %i\r\n", i, *pt++);
+
+return 0;
 }
-}
+
+*/
