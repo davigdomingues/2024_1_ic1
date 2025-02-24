@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){ // triangulo de Floyd solução da Taysa.
+int main(){ // triangulo de Floyd solução de Taysa Guiral.
 
 int i, j, n, soma = 0;
 
