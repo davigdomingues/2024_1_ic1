@@ -1,3 +1,5 @@
+// Codigo pensado e proposto pelo colega Christyan Paniago Nantes:
+
 #include <stdio.h>
 
 void elementos(int *vetor, int *vetorA, int *vetorB){
