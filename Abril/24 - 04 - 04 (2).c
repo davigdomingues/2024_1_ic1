@@ -1,5 +1,4 @@
-*/
-/*int main() (Soma de valores ímpares alternados)
+int main() (Soma de valores ímpares alternados)
 {
     int i,n,soma;
     printf("Digite um número: ");
@@ -10,4 +9,3 @@
     printf("A soma dele com seus antecessores alternados eh: %d", soma);
     return 0;
 }
-*/
