@@ -1,33 +1,31 @@
 #include <stdio.h>
+
 int numero[30];
 int n, fatorial = 1, soma = 0;
 
 int func_1();
 
 int main() {
-
     int teste;
     
     do {
-    printf("Digite o total de valores: ");
-    scanf("%d", &n);
+        printf("Digite o total de valores: ");
+        scanf("%d", &n);
     
-        if (n < 30){
-    
-            for (int i = 0; i < n; i++){
-                printf("Valor %d: ", i + 1);
-                scanf("%d", &numero[i]);
+            if (n < 30){
+                for (int i = 0; i < n; i++){
+                    printf("Valor %d: ", i + 1);
+                    scanf("%d", &numero[i]);
             }
-            func_1();
+                
+                func_1();
         
-            printf("Digite -1 para parar ou outro valor e digite a tecla 'enter'.");
-            scanf("%d", &teste);
-        }
-    
+                printf("Digite -1 para parar ou outro valor e digite a tecla 'enter'.");
+                scanf("%d", &teste);
+            }
     } while (teste != -1);
     
 return 0;
-
 }
 
 int func_1(){
@@ -52,5 +50,4 @@ int func_1(){
     }
     
 return 0;
-
 }
