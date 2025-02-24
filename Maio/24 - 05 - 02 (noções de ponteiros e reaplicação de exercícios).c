@@ -71,7 +71,7 @@ return 0;
 }
 */
 
-/* ou usar a solução da taisa
+/* ou usar a solução de Taysa Guiral:
 void main(){
 
 char frase[1000];
@@ -136,7 +136,7 @@ int main(){
 return 0;
 }
 
-/* solução do LUCAS CABRAL
+/* solução de Lucas Cabral Kauvano
 int f (char a, char b){
     int x = a - b;
     if (a > b) return x - 1;
