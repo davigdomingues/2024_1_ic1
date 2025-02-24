@@ -1,6 +1,3 @@
-Obs: a nota da prova tem como critério, também, a qualidade do programa, de tal forma que deve ser considerado um bom projeto,
-ou seja, sintético, correto e direto.
-
 #include <stdio.h>
 
 int valor_perfeito(int pvalor){
