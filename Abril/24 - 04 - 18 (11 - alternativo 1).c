@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){ // triangulo de Floyd solução do Gabriel Hupfer.
+int main(){ // triangulo de Floyd solução de Gabriel Highi Hupfer.
 
 int i, j, n, k = 1;
 
