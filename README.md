@@ -9,6 +9,6 @@ Colegas:
 
 - Christyan Paniago Nantes (perfil: https://github.com/CN-2104 [github], https://www.linkedin.com/in/christyan-nantes/ [linkedln]);
 
-- Lucas Cabral Kauvano (perfil: https://www.linkedin.com/in/lucas-cabral-kauvano-9a572427b/[linkedln]);
+- Lucas Cabral Kauvano (perfil: https://www.linkedin.com/in/lucas-cabral-kauvano-9a572427b/ [linkedln]);
 
 - Gabriel Hupfer Righi (perfil: https://www.linkedin.com/in/gabriel-righi-9a58882b9/ [linkedln]).
