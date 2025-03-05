@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1720466975 source:c:\backup\davi_2\usp\bcc\2024_1 1º - período\introdução a computação i\ufu\arquivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+

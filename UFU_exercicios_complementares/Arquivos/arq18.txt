@@ -1,0 +1,3 @@
+produto1 10.50
+produto2 20.00
+produto3 15.75
