@@ -12,3 +12,5 @@ Colegas:
 - Lucas Cabral Kauvano (perfil: https://www.linkedin.com/in/lucas-cabral-kauvano-9a572427b/ [Linkedln]);
 
 - Gabriel Hupfer Righi (perfil: https://www.linkedin.com/in/gabriel-righi-9a58882b9/ [Linkedln]).
+
+Ementa oficial da disciplina: https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=5954001&codcur=59080&codhab=0
